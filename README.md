@@ -14,7 +14,7 @@ Na pasta "Impressao" estão os arquivos PDF para impressão criados no PnPTool e
 
 ## Desenvolvimento
 
-Os softwares utilizados para este projeto foram o (Canva)[https://www.canva.com/], o (Photopea)[https://www.photopea.com/], o (Affinity)[https://www.affinity.studio/], o (PNPTool)[https://boardgamegeek.com/thread/2490834/tool-for-help-with-your-game-prototype-tabletop-pn] e o (Playing Cards)[https://playingcards.io/].
+Os softwares utilizados para este projeto foram o [Canva]([https://www.canva.com/), o [Photopea](https://www.photopea.com/), o [Affinity](https://www.affinity.studio/), o [PNPTool](https://boardgamegeek.com/thread/2490834/tool-for-help-with-your-game-prototype-tabletop-pn) e o [Playing Cards](https://playingcards.io/).
 
 A versão atual desse projeto foi desenvolvida usando a biblioteca de arte do Canva Pro e outros recursos CC0 encontrados na Web.
 
@@ -29,7 +29,7 @@ Os elementos gráficos são utilizados exclusivamente em fase de Prototipagem e 
 - "Classic Parquet 10" por Share Textures, via [cc0-textures.com](https://cc0-textures.com). Licenciado sob CC0 - Domínio Público.
 
 
-Elementos Licenciados sob Canva Pro for Education (Acordo de Licença de Conteúdo do Canva)[https://www.canva.com/policies/content-license-agreement/]
+Elementos Licenciados sob Canva Pro for Education [Acordo de Licença de Conteúdo do Canva](https://www.canva.com/policies/content-license-agreement/).
 
 - "Cartoon Illustration of Fried Egg" por GoodAng, via Canva Pro. Licenciado sob Acordo de Licença de Conteúdo do Canva.
 - "Salty Crunchy Potato Chips" por smartstartst, via Canva Pro. Licenciado sob Acordo de Licença de Conteúdo do Canva.
